@@ -309,10 +309,11 @@ pip install transformers torch speechbrain datasets
 ## Usage Instructions
 
 To run the models, please refer to the following Jupyter notebook files included in this repository:
-- **TTS technical dataset link** (https://drive.google.com/drive/folders/1-2fI5aLI78KCZGsEIAJRQ5YnRVvVSqyS?usp=sharing)
-- **Hindi dataset link** (https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0/viewer/hi/validated)
-- **[Task 1: English TTS Model](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_1_running_steps.ipynb)**: This notebook provides step-by-step instructions and code to run the English TTS model.
-- **[Task 2: Hindi TTS Model](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_2_running_steps.ipynb)**: This notebook offers guidance on running the Hindi TTS model, including dataset preparation and audio generation.
-
+- **[TTS technical dataset link](https://drive.google.com/drive/folders/1-2fI5aLI78KCZGsEIAJRQ5YnRVvVSqyS?usp=sharing)**
+- **[Hindi dataset link](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0/viewer/hi/validated)**
+- **[Task 1: English TTS Model Run](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_1_running_steps.ipynb)**: This notebook provides step-by-step instructions and code to run the English TTS model.
+- **[Task 2: Hindi TTS Model Run](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_2_running_steps.ipynb)**: This notebook offers guidance on running the Hindi TTS model, including dataset preparation and audio generation.
+- **[Task 1: English TTS Model FineTune](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_1_model_finetuning.ipynb)**: This notebook provides step-by-step instructions and code to Finetune the English TTS model.
+- **[Task 2: Hindi TTS Model FineTune](https://github.com/Tejasva-Maurya/Assignment-2-Fine-tuning-Text-to-Speech-TTS-Models/blob/main/Task_2_model_finetuning.ipynb)**: This notebook offers guidance on Finetuning the Hindi TTS model, including dataset preparation and audio generation.
 ## Conclusion
 This repository provides a comprehensive implementation of TTS models for both English and Hindi. Experiment with different input texts to explore the capabilities of each model! Thank you for the opportunity to work on this assignment.
